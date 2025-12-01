@@ -4,7 +4,7 @@ The github original repo is here: https://github.com/coleam00/ai-agents-mastercl
 The youtube video links is here: https://www.youtube.com/@ColeMedin/playlists
 
 here is how to uv to create & activate & install dependencies instead of using pip
-'''
+```
 # In VS Code terminal, inside your project folder:
 cd 1-first-agent
 uv venv
@@ -14,4 +14,4 @@ uv venv
 source .venv/bin/activate # (Mac/Linux)
 
 uv pip install -r requirements.txt
-'''
+```
